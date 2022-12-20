@@ -12,7 +12,7 @@ namespace WorkwithOperatorOverloading
         {
             Sal = x;
         }
-        public Employee()
+        public Employee1()
         {
         }
         public void Show()
